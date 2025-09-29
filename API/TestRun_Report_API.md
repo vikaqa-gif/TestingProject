@@ -1,8 +1,7 @@
 Отчёт о прогоне тестов — Petstore API
 
-**Дата:** 28.09.2025  
-**Инструменты:** Postman, Newman, Swagger Petstore (демо-окружение)  
-**Окружение:** https://petstore.swagger.io/v2
+Инструменты: Postman, Newman, Swagger Petstore (демо-окружение)  
+Окружение: https://petstore.swagger.io/
 
 Успешные результаты
 CRUD для питомцев: создать, получить, обновить, удалить —  работает 
