@@ -42,10 +42,7 @@ make newman
 
 
 
-## После выполнения тестов отчёт будет сохранён в:
-```
-API/reports/newman-report.html
-```
+## После выполнения тестов отчёт будет сохранён в: API/reports/newman-report.html
 
 **Просмотр отчёта:**
 - **macOS:**
