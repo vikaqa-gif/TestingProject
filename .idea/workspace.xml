@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29251fa4-9e38-4bea-8322-d69ac820ccf3" name="Changes" comment="запуск с 1 командой - все работает" />
+    <list default="true" id="29251fa4-9e38-4bea-8322-d69ac820ccf3" name="Changes" comment="запуск с 1 командой - все работает">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/TestRun_Report_API.txt" beforeDir="false" afterPath="$PROJECT_DIR$/API/TestRun_Report_API.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +21,12 @@
       </list>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/vikaqa-gif/TestingProject.git",
-    "accountId": "d09e0016-8237-472d-aad2-1b85f17b487c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vikaqa-gif/TestingProject.git&quot;,
+    &quot;accountId&quot;: &quot;d09e0016-8237-472d-aad2-1b85f17b487c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -98,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759193135763</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="запуск с 1 командой - все работает">
+      <option name="closed" value="true" />
+      <created>1759193277804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759193277804</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
